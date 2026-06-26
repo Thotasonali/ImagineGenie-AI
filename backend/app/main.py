@@ -36,7 +36,7 @@ app.include_router(router)
 @app.get("/")
 def root():
     return {
-        "message": "VisionForge AI backend is running",
+        "message": "ImagineGenie AI backend is running",
         "docs": "/docs",
         "health": "/api/health",
     }

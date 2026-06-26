@@ -6,7 +6,7 @@ export function Header() {
       <div className="brand">
         <div className="brandIcon"><Sparkles size={24} /></div>
         <div>
-          <h1>VisionForge AI</h1>
+          <h1>ImagineGenie AI</h1>
           <p>Enterprise AI creative platform</p>
         </div>
       </div>

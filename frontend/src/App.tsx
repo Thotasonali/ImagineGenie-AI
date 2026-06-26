@@ -53,7 +53,7 @@ function App() {
             <p className="eyebrow">Full-stack AI platform foundation</p>
             <h2>Generate, enhance, store, and manage creative AI outputs.</h2>
             <p>
-              VisionForge AI Part 1 gives you a professional React + FastAPI + SQLite foundation.
+              ImagineGenie AI Part 1 gives you a professional React + FastAPI + SQLite foundation.
               The next parts add authentication, real AI generation, background jobs, and deployment.
             </p>
           </div>

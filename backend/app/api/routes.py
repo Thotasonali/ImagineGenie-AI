@@ -12,11 +12,11 @@ from app.schemas.image import (
 from app.services.image_service import create_placeholder_image
 from app.services.prompt_service import enhance_prompt
 
-router = APIRouter(prefix="/api", tags=["VisionForge AI"])
+router = APIRouter(prefix="/api", tags=["ImagineGenie AI"])
 
 @router.get("/health")
 def health_check():
-    return {"status": "ok", "service": "VisionForge AI API"}
+    return {"status": "ok", "service": "ImagineGenie AI API"}
 
 @router.post("/enhance-prompt", response_model=EnhancePromptResponse)
 def enhance_prompt_endpoint(payload: EnhancePromptRequest):

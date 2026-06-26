@@ -1,4 +1,4 @@
-# VisionForge AI Part 1 Setup
+# ImagineGenie AI Part 1 Setup
 
 ## 1. Move folder to your projects directory
 
@@ -6,7 +6,7 @@
 cd ~/Desktop/projects
 ```
 
-Put the extracted `VisionForgeAI-Part1` folder here or rename it to `visionforge-ai`.
+Put the extracted `ImagineGenieAI-Part1` folder here or rename it to `visionforge-ai`.
 
 ## 2. Start backend
 
@@ -40,7 +40,7 @@ http://localhost:5173
 cd ~/Desktop/projects/visionforge-ai
 git init
 git add .
-git commit -m "Initial commit: VisionForge AI Part 1"
+git commit -m "Initial commit: ImagineGenie AI Part 1"
 git branch -M main
 git remote add origin https://github.com/YOUR_USERNAME/visionforge-ai.git
 git push -u origin main

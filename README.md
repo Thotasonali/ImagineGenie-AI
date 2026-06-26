@@ -1,6 +1,6 @@
-# VisionForge AI
+# ImagineGenie AI
 
-VisionForge AI is a full-stack AI creative platform foundation built with React, TypeScript, FastAPI, SQLite, and Python.
+ImagineGenie AI is a full-stack AI creative platform foundation built with React, TypeScript, FastAPI, SQLite, and Python.
 
 This is **Part 1 MVP** of a production-style flagship project for AI Engineer, Backend Engineer, and Software Engineer portfolios.
 
@@ -118,4 +118,4 @@ http://localhost:5173
 
 ## Resume Bullet
 
-Built VisionForge AI, a full-stack generative AI creative platform using React, TypeScript, FastAPI, SQLAlchemy, and SQLite, implementing prompt enhancement, image generation workflow, persistent history, local image storage, and a scalable architecture for future AI model integration.
+Built ImagineGenie AI, a full-stack generative AI creative platform using React, TypeScript, FastAPI, SQLAlchemy, and SQLite, implementing prompt enhancement, image generation workflow, persistent history, local image storage, and a scalable architecture for future AI model integration.

@@ -15,7 +15,7 @@ def create_placeholder_image(enhanced_prompt: str, style: str) -> str:
     # Decorative blocks for a polished placeholder preview.
     draw.rounded_rectangle((70, 70, 954, 954), radius=36, outline=(99, 102, 241), width=4)
     draw.rounded_rectangle((110, 120, 914, 260), radius=24, fill=(30, 41, 59))
-    draw.text((140, 150), "VisionForge AI", fill=(255, 255, 255))
+    draw.text((140, 150), "ImagineGenie AI", fill=(255, 255, 255))
     draw.text((140, 195), f"Mode: {style}", fill=(203, 213, 225))
 
     y = 330
